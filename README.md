@@ -1,4 +1,4 @@
-# Hi, I'm Shaun Monwabisi Teka 👋
+# Hi, I'm Shaun Monwabisi Teka 👋🏽
 
 ## 🔐 Cybersecurity Analyst | SOC Analyst | Threat Hunter | Cloud Security Enthusiast
 
