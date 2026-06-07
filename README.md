@@ -27,7 +27,7 @@ I am passionate about building practical cybersecurity skills through hands-on l
 ## 🚀 Featured Projects
 
 - 🔵[Microsoft Sentinel Threat Hunting & Command-and-Control Detection Lab](https://github.com/ShaunTeka/soc-analyst-lab)
-- 🛡️ [Microsoft Defender for Endpoint Lab](https://github.com/ShaunTeka/active-directory-)
+- 🛡️ [Microsoft Defender for Endpoint Lab](https://github.com/ShaunTeka/soc-analyst-lab/tree/main/microsoft-defender-endpoint-lab)
 - 🏢 [Active Directory Security Lab](https://github.com/ShaunTeka/active-directory-lab)
 - ☁️ [Azure Security Lab](https://github.com/ShaunTeka/cybersecurity-portfolio-)
 - 🔍 [SOC Analyst Detection & Investigation Lab](https://github.com/ShaunTeka/cybersecurity-portfolio)
