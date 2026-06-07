@@ -1,7 +1,6 @@
 # Hi, I'm Shaun Monwabisi Teka 👋🏽
 
-## 🔐 Cybersecurity & Infrastructure Engineer | SOC Analyst | Cloud Security
-
+## 🔐 Cybersecurity & Infrastructure Engineer 
 ---
 
 ## 👨🏽‍💻 About Me
