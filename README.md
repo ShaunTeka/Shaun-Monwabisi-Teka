@@ -1,6 +1,6 @@
 # Hi, I'm Shaun Monwabisi Teka 👋🏽
 
-## 🔐 Cybersecurity & Infrastructure Engineer 
+## 🔐 Infrastructure & Cybersecurity Engineer 
 ---
 
 ## 👨🏽‍💻 About Me
