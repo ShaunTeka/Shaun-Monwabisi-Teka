@@ -30,7 +30,7 @@ I am passionate about building practical cybersecurity skills through hands-on l
 - 🛡️ [Microsoft Defender for Endpoint Lab](https://github.com/ShaunTeka/active-directory-)
 - 🏢 [Active Directory Security Lab](https://github.com/ShaunTeka/active-directory-lab)
 - ☁️ [Azure Security Lab](https://github.com/ShaunTeka/cybersecurity-portfolio-)
-- 🔍 [SOC Analyst Detection & Investigation Lab](https://github.com/ShaunTeka/soc-analyst-lab)
+- 🔍 [SOC Analyst Detection & Investigation Lab](https://github.com/ShaunTeka/cybersecurity-portfolio)
 
 ---
 
