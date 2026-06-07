@@ -26,7 +26,7 @@ I am passionate about building practical cybersecurity skills through hands-on l
 
 ## 🚀 Featured Projects
 
-- 🔵[**Microsoft Sentinel Threat Hunting & Command-and-Control Detection Lab**](./soc-analyst-lab/blob/main/README.md)
+- 🔵[**Microsoft Sentinel Threat Hunting & Command-and-Control Detection Lab**](./soc-analyst-lab/README.md)
 - 🛡️ Microsoft Defender for Endpoint Lab
 - 🏢 Active Directory Security Lab
 - ☁️ Azure Security Lab
